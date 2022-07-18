@@ -1,4 +1,4 @@
-# 226 Web Database Applications - Lab4
+# CSC 226 Web Database Applications - Lab4
 
 A simple assignment to get acquainted with database queries in MySQL and PHP. Prepared statements are used to emphasize their merit as a security measure taken when creating database applications.
 
